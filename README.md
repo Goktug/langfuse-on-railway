@@ -5,3 +5,7 @@ This template deploys a self-hosted version of Langfuse on Railway. [Langfuse](h
 For a step-by-step guide, see [this](https://alphasec.io/open-source-llm-observability-and-analytics-with-langfuse/) post, or click the button below to deploy Langfuse using a one-click template on Railway.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TkVlTI?referralCode=alphasec)
+
+To open the Python notebook in Google Colab, click the button below.
+
+[![Open In Colab](./colab.svg)](https://colab.research.google.com/github/alphasecio/langfuse-on-railway/blob/main/langfuse_langchain.ipynb)
