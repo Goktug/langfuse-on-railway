@@ -1,4 +1,4 @@
-FROM ghcr.io/langfuse/langfuse:sha-75f2ae5
+FROM ghcr.io/langfuse/langfuse:sha-19778b2
 
 # Configure environment variables
 ARG DATABASE_URL
